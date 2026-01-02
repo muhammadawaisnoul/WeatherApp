@@ -70,7 +70,7 @@ weather_app
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/muhammadawaisnoul/WeatherApp.git
    ```
 2. Open the project in **Android Studio**
 3. Add your API key in `local.properties` or `Constants.kt`
